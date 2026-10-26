@@ -1,0 +1,10 @@
+K.S. Luxury Sport Garage Italia - sito web
+
+Il sito e' un unico file: index.html (foto e logo sono gia' incorporati).
+
+Come metterlo online:
+- Netlify / Cloudflare Pages: trascina questa cartella (o index.html) nella pagina di caricamento.
+- Hosting tradizionale: carica index.html nella cartella principale del sito (di solito public_html o www).
+
+Dopo il caricamento collega il dominio seguendo le istruzioni del servizio scelto.
+Per ogni modifica, sostituisci index.html con la nuova versione.
